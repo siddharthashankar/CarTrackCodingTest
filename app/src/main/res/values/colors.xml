@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#407294</color>
+    <color name="colorPrimaryDark">#2c4f67</color>
+    <color name="colorAccent">#2c4f67</color>
+    <color name="colorPrimaryLight">#799cb4</color>
+
+    <color name="color_separator">#0b000000</color>
+    <color name="color_separator_dark">#39000000</color>
+
+    <color name="button_disabled_state_color">#9d9e9f</color>
+
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_dark">#000000</color>
+    <color name="text_color_light">#d6000000</color>
+    <color name="text_color_lighter">#73000000</color>
+    <color name="text_color_theme">#53809e</color>
+    <color name="text_color_blue">#28368e</color>
+    <color name="text_color_light_blue">#297efd</color>
+    <color name="text_color_error">#ed1c24</color>
+    <color name="text_color_gray">#AAABAB</color>
+
+    <!-- Login Screen -->
+    <color name="login_container_background_color">#d8e2e9</color>
+    <color name="login_edit_text_background_color">#f5f5f5</color>
+    <color name="login_button_background_color">#407294</color>
+
+</resources>

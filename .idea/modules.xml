@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CarTrackCodingTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CarTrackCodingTest.iml" group="CarTrackCodingTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CarTrackCodingTest-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CarTrackCodingTest-app.iml" group="CarTrackCodingTest/app" />
+      <module fileurl="file://$PROJECT_DIR$/CartrackCodingChallenge.iml" filepath="$PROJECT_DIR$/CartrackCodingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
